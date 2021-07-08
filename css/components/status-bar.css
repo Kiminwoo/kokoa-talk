@@ -4,7 +4,7 @@
   padding: 5px 3px;
   position: fixed;
   width: 100%;
-  box-sizing: border-box;
+  box-sizing: border-box; /* padding 값을 주어도 width에 변화를 주지 않기 위함일 때 */
 }
 
 .status-bar__column {
