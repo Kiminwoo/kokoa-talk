@@ -9,8 +9,10 @@
 
 /*screens*/
 @import "screens/login.css";
+@import "screens/friends.css";
 
 body {
   /* 공통적으로 사용되는 */
+  color: #2e363e;
   font-family: "Open Sans", sans-serif;
 }
