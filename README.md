@@ -8,7 +8,7 @@
 
 ### 2021.08.11
 
-`flex-direction` : 아이템들이 배치되는 축의 방향을 결정 #`align-items` :: 수직축 방향으로 아이템들을 정렬
+`flex-direction` : 아이템들이 배치되는 축의 방향을 결정 `align-items` :: 수직축 방향으로 아이템들을 정렬
 
 <pre>
 <code>

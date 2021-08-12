@@ -11,4 +11,17 @@
 }
 .screen-header__icons span {
   margin-left: 25px;
+  position: relative;
+}
+.screen-header-nav__reddot {
+  background-color: tomato;
+  width: 5px;
+  height: 5px;
+  display: flex;
+  border-radius: 2.5px;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  left: 69px;
+  bottom: 22px;
 }
