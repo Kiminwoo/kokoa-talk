@@ -21,3 +21,8 @@
 ### 2021.08.11
 
 `display: block` : 가로 영역을 모두 채우고 , block 요소 다음에 등장하는 태그는 줄바꿈된 것처럼 보임
+
+### 2021.08.22
+
+`order` order은 flex를 가진 children에 한해 반응함
+`flex-direction` : row-reverse 간단하게 순서르 바꿀수 있음
