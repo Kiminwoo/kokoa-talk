@@ -26,3 +26,8 @@
 
 `order` order은 flex를 가진 children에 한해 반응함
 `flex-direction` : row-reverse 간단하게 순서르 바꿀수 있음
+
+### 2021.08.28
+
+`animation ( forwards ) ` : 마지막 keyFrames를 기억하고 싶을 때
+`animation-delay ` : 애니메이션 지연을 하고 싶을 경우
